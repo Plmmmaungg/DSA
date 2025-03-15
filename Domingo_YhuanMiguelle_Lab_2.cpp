@@ -154,7 +154,7 @@ int main() {
 
 	head = insertAtEnd ("Sunday Morning","by Maroon", head);
 	traverse(head);
-	head = insertAtEnd ("Season","by Wave to Earth", head);
+	head = insertAtEnd ("Season","by Wave  to Earth", head);
     traverse(head);
 	head = insertAtEnd ("Scott Street", "by Phoebe Bridgers", head);
     traverse(head);
